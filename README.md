@@ -1,5 +1,5 @@
-#Module03
-#This project demonstrates basic usage of C# lists and dictionaries to manage a shopping cart and a product price catalog.
+# Module03
+This project demonstrates basic usage of C# lists and dictionaries to manage a shopping cart and a product price catalog.
 
 ## Features
 
