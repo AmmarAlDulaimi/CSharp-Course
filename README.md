@@ -20,6 +20,20 @@ This project demonstrates basic Object-Oriented Programming (OOP) concepts in C#
 - Simple console output of shape details
 
 ## Getting Started
+# Capstone Project  (Simple Sale App)
+
+This project is a simple console application that demonstrates key concepts from various programming modules, culminating in a capstone project. The application connects to a SQL Server database to perform essential data operations, showcasing a full-stack approach in a lightweight console environment.
+
+Features
+Database Integration: Connects to a SQL Server database using a connection string.
+
+Data Models: Utilizes classes to represent database entities, such as Product and Sale.
+
+Repository Pattern: Implements a repository layer (ProductRepository, SaleRepository) to separate business logic from data access logic, making the code cleaner and more maintainable.
+
+Simple Console Interface: Provides a command-line menu for user interaction to perform tasks such as adding, viewing, and updating data.
+
+Benefit from Previous Modules: Builds upon foundational knowledge in C# programming, object-oriented principles, and database management.
 
 ### Prerequisites
 
