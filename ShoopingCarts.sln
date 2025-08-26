@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module34-list-dicInMethods", "module3-list-dic\module34-list-dicInMethods.csproj", "{98933843-E171-499F-A45A-93C59562B94F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module05-OOP", "Module05-OOP\Module05-OOP.csproj", "{DF70371F-4B09-460C-892E-E08A4C2A3150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstoneSaleProject", "CapstoneSaleProject\CapstoneSaleProject.csproj", "{A8F3CBF7-2690-4170-8255-EB13D37E2BE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DF70371F-4B09-460C-892E-E08A4C2A3150}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF70371F-4B09-460C-892E-E08A4C2A3150}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF70371F-4B09-460C-892E-E08A4C2A3150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F3CBF7-2690-4170-8255-EB13D37E2BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F3CBF7-2690-4170-8255-EB13D37E2BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F3CBF7-2690-4170-8255-EB13D37E2BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F3CBF7-2690-4170-8255-EB13D37E2BE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

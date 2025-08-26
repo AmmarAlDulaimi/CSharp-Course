@@ -1,0 +1,5 @@
+2025-08-25 22:47:49 - Product added: Keyboard DELL 1522, Price: $15.50, Stock: 10
+2025-08-25 22:48:42 - Error adding product: The input string '15 US' was not in a correct format.
+2025-08-25 22:49:22 - Sale recorded: 1 x Keyboard DELL 1522
+2025-08-25 22:49:29 - Viewed sales. Grand Total: $15.50
+2025-08-25 22:49:53 - Checked inventory.
